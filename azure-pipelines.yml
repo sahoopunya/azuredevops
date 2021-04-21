@@ -6,7 +6,6 @@
 trigger:
 - master
 
-pool: CustomAgent
 
 steps:
 - task: Maven@3
